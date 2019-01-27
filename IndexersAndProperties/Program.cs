@@ -14,7 +14,7 @@ namespace IndexersAndProperties
             Console.WriteLine("Введите значение первого элемента массива: ");
             numbers[0] = int.Parse(Console.ReadLine());
             Console.WriteLine("Первый элемент массива: " + numbers[0]);
-            Console.ReadKey();
+            Console.ReadLine();
         }
     }
 }
