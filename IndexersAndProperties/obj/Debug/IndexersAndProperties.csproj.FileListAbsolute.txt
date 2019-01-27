@@ -1,0 +1,7 @@
+c:\users\user\source\repos\IndexersAndProperties\IndexersAndProperties\bin\Debug\IndexersAndProperties.exe.config
+c:\users\user\source\repos\IndexersAndProperties\IndexersAndProperties\bin\Debug\IndexersAndProperties.exe
+c:\users\user\source\repos\IndexersAndProperties\IndexersAndProperties\bin\Debug\IndexersAndProperties.pdb
+c:\users\user\source\repos\IndexersAndProperties\IndexersAndProperties\obj\Debug\IndexersAndProperties.csprojAssemblyReference.cache
+c:\users\user\source\repos\IndexersAndProperties\IndexersAndProperties\obj\Debug\IndexersAndProperties.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\IndexersAndProperties\IndexersAndProperties\obj\Debug\IndexersAndProperties.exe
+c:\users\user\source\repos\IndexersAndProperties\IndexersAndProperties\obj\Debug\IndexersAndProperties.pdb
